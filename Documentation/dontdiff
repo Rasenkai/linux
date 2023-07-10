@@ -255,7 +255,6 @@ vmlinux.aout
 vmlinux.bin.all
 vmlinux.lds
 vmlinux.map
-vmlinux.relocs
 vmlinux.symvers
 vmlinuz
 voffset.h
